@@ -1,0 +1,8 @@
+mediapipe==0.10.20
+opencv-python==4.11.0.86
+scikit-learn==1.7.1
+joblib==1.5.2
+pyautogui==0.9.54
+matplotlib==3.10.6
+protobuf==4.25.8
+numpy==1.26.4

@@ -1,0 +1,10 @@
+numpy==1.26.4
+scipy==1.16.1
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+scikit-learn==1.5.2
+pyautogui==0.9.54
+pynput==1.7.7
+matplotlib==3.10.6
+pillow==11.3.0
+psutil==7.0.0
